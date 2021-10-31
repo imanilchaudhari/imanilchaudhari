@@ -1,4 +1,4 @@
-### Hi 👋, I'm Anil Chaudhari (Web App Developer)
+### Hi 👋, I'm Anil Chaudhari (Web/Mobile App Developer)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/imanilchaudhari?label=imanilchaudhari&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/imanilchaudhari?logo=GitHub&style=for-the-badge)
