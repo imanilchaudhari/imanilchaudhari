@@ -1,13 +1,22 @@
 ### Hi 👋, I'm Anil Chaudhari (Web/Mobile App Developer)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/imanilchaudhari?label=imanilchaudhari&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/imanilchaudhari?logo=GitHub&style=for-the-badge)
+#### PHP (Yii, Yii2, Laravel, Phalcon), Angular & Flutter Developer
+
+Looking for experienced Yii Developer? Here I am. I have developed & contributed several Yii based application, Alongside with Laravel, Phalcon, Flutter & Angular Framework.
+
+#### I can work on 
+- Yii & Yii2 application development & maintenance
+- REST api development and integration
+- Payment gateway integration (national & international)
+- Mobile app development (Flutter & Angular)
+
 
 ### Connect with me:
-<a href="https://twitter.com/imanilchaudhari" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="imanilchaudhari" height="22" width="22" /></a>
-<a href="https://www.linkedin.com/in/imanilchaudhari/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imanilchaudhari" height="22" width="22" /></a>
-<a href="https://www.instagram.com/imanilchaudhari/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="imanilchaudhari" height="22" width="22" /></a>
+![Twitter Follow](https://img.shields.io/twitter/follow/:imanilchaudhari?label=imanilchaudhari&logo=twitter&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/imanilchaudhari?logo=GitHub&style=for-the-badge)
+
 <br />
+
 ### Languages and Tools:
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
