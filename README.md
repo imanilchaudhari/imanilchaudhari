@@ -1,4 +1,4 @@
-### Hi 👋, I'm Anil Chaudhari (Web/Mobile App Developer)
+### Hi 👋, I'm Anil Chaudhari (Web App Developer)
 
 #### PHP (Yii, Yii2, Laravel, Phalcon), Angular & Flutter Developer
 
