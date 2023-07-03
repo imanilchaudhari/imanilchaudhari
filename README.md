@@ -1,12 +1,12 @@
-### Hi 👋, I'm Anil Chaudhari (Web App Developer)
+### Hi 👋, I'm Anil Chaudhari (Software Developer)
 
 #### PHP (Yii, Yii2, Laravel, Phalcon), Angular & Flutter Developer
 
-Looking for experienced Yii Developer? Here I am. I have developed & contributed several Yii based application, Alongside with Laravel, Phalcon, Flutter & Angular Framework.
+Looking for an experienced Yii Developer? Here I am. I have developed & contributed several Yii based applications, Alongside Laravel, Phalcon, Flutter & Angular Framework.
 
 #### I can work on 
 - Yii & Yii2 application development & maintenance
-- REST api development and integration
+- REST API development and integration
 - Payment gateway integration (national & international)
 - Mobile app development (Flutter & Angular)
 
