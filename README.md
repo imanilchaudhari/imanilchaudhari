@@ -5,7 +5,7 @@
 Looking for an experienced Yii Developer? Here I am. I have developed & contributed several Yii based applications, Alongside Laravel, Phalcon, Flutter & Angular Framework.
 
 #### I can work on 
-- Yii & Yii2 application development & maintenance
+- Yii, Yii2 & Laravel application development & maintenance
 - REST API development and integration
 - Payment gateway integration (national & international)
 - Mobile app development (Flutter & Angular)
